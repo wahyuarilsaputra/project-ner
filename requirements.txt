@@ -1,6 +1,6 @@
 scikit-learn==1.2.2
 pandas
 numpy
-# gensim==4.0.1
+gensim
 nltk
 tensorflow
