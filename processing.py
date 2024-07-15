@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
-import gensim
-from gensim.models import Word2Vec
+# from gensim.models import Word2Vec
 from tensorflow.keras.utils import pad_sequences
 from keras.utils import to_categorical
 from sklearn.model_selection import train_test_split
