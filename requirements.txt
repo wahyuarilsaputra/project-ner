@@ -1,6 +1,6 @@
 pandas
 numpy
-gensim.model
+gensim
 nltk
 tensorflow
 cython
