@@ -6,3 +6,4 @@ tensorflow
 cython
 scipy
 pypdf
+scikit-learn
