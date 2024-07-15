@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import tensorflow as tf
-import gensim
 from gensim.models import Word2Vec
 from processing import process_data_and_train_model, pdf_to_text, preprocess_text, multiple_replace, tokenize_text, get_word_embedding, predict_labels, process_hakim_anggota
 from tensorflow.keras.models import load_model
