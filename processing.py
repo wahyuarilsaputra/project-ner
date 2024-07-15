@@ -1,9 +1,9 @@
 import pandas as pd
 import numpy as np
 # from gensim.models import Word2Vec
-from tensorflow.keras.utils import pad_sequences
-from keras.utils import to_categorical
-from sklearn.model_selection import train_test_split
+# from tensorflow.keras.utils import pad_sequences
+# from keras.utils import to_categorical
+# from sklearn.model_selection import train_test_split
 from pypdf import PdfReader
 import re
 
