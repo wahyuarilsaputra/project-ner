@@ -4,3 +4,4 @@ numpy
 gensim
 nltk
 tensorflow
+cython
